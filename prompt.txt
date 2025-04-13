@@ -1,0 +1,10 @@
+# prompts.txt
+Tool: ChatGPT,GeminiAI
+Date: 11-04-2025,12-04-2025,13-04-2025
+
+1. Prompt: "How to add a new directive in ANTLR grammar file Directives.g4?"
+2. Prompt: "Java method to parse bytes like '10MB' or '1.5 GB' into long"
+3. Prompt: "How to write unit tests for custom directive in wrangler-core?"
+4. Prompt: "Maven command to run tests and build project"
+5. Prompt: "Fix NullPointerException when directive context is missing"
+6. Prompt: "Best way to use visitor pattern for directive processing in Java"
